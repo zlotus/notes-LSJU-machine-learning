@@ -12,7 +12,7 @@
 
 ## 目录
 
-来自MIT课程线性代数的笔记，可以在[斯坦福大学公开课：机器学习课程](http://open.163.com/special/opencourse/machinelearning.html)观看。
+来自斯坦福网络课程《机器学习》的笔记，可以在[斯坦福大学公开课：机器学习课程](http://open.163.com/special/opencourse/machinelearning.html)观看。
 
 根据视频内容，对每一讲的名称可能会有所更改（以更好的体现各讲的教学内容）。
 
