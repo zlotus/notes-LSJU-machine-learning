@@ -35,6 +35,6 @@
 - [第17集] [解连续状态的MDP](chapter17.ipynb)
 - [第18集] [线性二次调节](chapter18.ipynb)
 - [第19集] [微分动态规划及线性二次型高斯](chapter19.ipynb)
-- [第20集] 策略搜索
+- [第20集] [策略搜索算法](chapter20.ipynb)
 
 笔记格式借鉴[Jin Li](https://github.com/lijin-THU/)的[机器学习笔记](https://github.com/lijin-THU/notes-machine-learning)。
