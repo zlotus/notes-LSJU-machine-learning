@@ -46,7 +46,7 @@
 - 【参考笔记5】 凸优化概述2
 - 【参考笔记6】 [隐式马尔可夫模型](sn06.ipynb)
 - 【参考笔记7】 [多元高斯分布](sn07.ipynb)
-- 【参考笔记8】 更多关于高斯分布的知识
+- 【参考笔记8】 [更多关于多元高斯分布的知识](sn08.ipynb)
 - 【参考笔记9】 高斯过程
 
 笔记格式借鉴[Jin Li](https://github.com/lijin-THU/)的[机器学习笔记](https://github.com/lijin-THU/notes-machine-learning)。
